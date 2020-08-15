@@ -1,6 +1,7 @@
 package com.xx;
 
 public class Start {
+    private String name;
     public static void main(String[] args) {
         String getHubUrl = "wwww.gethub.com";
         System.out.println("测试");
